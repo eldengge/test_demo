@@ -7,57 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7683d444-2f51-437a-b96d-3e00357f4b7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/cglib-nodep-3.2.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/commons-codec-1.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/commons-exec-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/commons-io-2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/commons-lang3-3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/cssparser-0.9.22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/gson-2.8.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/guava-21.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/htmlunit-2.26.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/htmlunit-core-js-2.26.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/htmlunit-driver-2.26.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/httpclient-4.5.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/httpcore-4.4.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/httpmime-4.5.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/jetty-client-9.4.3.v20170317.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/jetty-http-9.4.3.v20170317.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/jetty-io-9.4.1.v20170120.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/jetty-util-9.4.1.v20170120.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/jna-4.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/jna-platform-4.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/junit-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/neko-htmlunit-2.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/phantomjsdriver-1.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/sac-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/selenium-api-3.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/selenium-chrome-driver-3.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/selenium-edge-driver-3.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/selenium-firefox-driver-3.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/selenium-ie-driver-3.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/selenium-java-3.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/selenium-opera-driver-3.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/selenium-remote-driver-3.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/selenium-safari-driver-3.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/selenium-support-3.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/serializer-2.7.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/websocket-api-9.4.3.v20170317.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/websocket-client-9.4.3.v20170317.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/websocket-common-9.4.3.v20170317.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/xalan-2.7.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/xercesImpl-2.11.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/lib/xml-apis-1.4.01.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/target/javaSETestDemo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/javaSETestDemo/target/javaSETestDemo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/javaSETestDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaSETestDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javaSETestDemo/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,10 +24,67 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/java/com/nsm/service/CommonAbstract.java">
+        <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/resources/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="71" lean-forward="true" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/resources/dispatcher-servlet.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springmvcDemo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2592">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="201" column="9" selection-start-line="201" selection-start-column="9" selection-end-line="205" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaSETestDemo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="46" column="51" lean-forward="true" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaSETestDemo/src/main/java/com/nsm/quartztest/HelloWordJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javaSETestDemo/src/main/java/com/nsm/quartztest/HelloWorldScheduler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/java/com/nsm/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="820">
-              <caret line="64" column="36" lean-forward="true" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+              <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#244#245#0" expanded="true" />
@@ -100,43 +108,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/webapp/WEB-INF/jsp/testpage/testPage1.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/java/com/nsm/service/GetContextTestService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/java/com/nsm/service/impl/GetContextTestServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -189,7 +165,6 @@
         <option value="$PROJECT_DIR$/javaSETestDemo/src/main/java/com/nsm/xdoctest/XdocTest.java" />
         <option value="$PROJECT_DIR$/javaSETestDemo/src/main/java/com/nsm/poitest/PoiReadWord2String.java" />
         <option value="$PROJECT_DIR$/javaSETestDemo/src/main/java/com/nsm/poitest/PoiTest.java" />
-        <option value="$PROJECT_DIR$/javaSETestDemo/pom.xml" />
         <option value="$PROJECT_DIR$/javaSETestDemo/src/main/java/com/nsm/threadtest/Testttt.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springmvcDemo/src/main/java/tyestttt.java" />
@@ -207,6 +182,9 @@
         <option value="$PROJECT_DIR$/springmvcDemo/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/springmvcDemo/src/main/java/com/nsm/controller/TestController.java" />
         <option value="$PROJECT_DIR$/springmvcDemo/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/javaSETestDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/javaSETestDemo/src/main/java/com/nsm/quartztest/HelloWordJob.java" />
+        <option value="$PROJECT_DIR$/javaSETestDemo/src/main/java/com/nsm/quartztest/HelloWorldScheduler.java" />
       </list>
     </option>
   </component>
@@ -269,103 +247,55 @@
             <path>
               <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSETestDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSETestDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSETestDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSETestDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nsm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSETestDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="nsm" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSETestDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="nsm" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="quartztest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSETestDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="testpage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -380,7 +310,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567666945030" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567674460354" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -417,7 +347,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.302">
+  <component name="RunManager" selected="Application.HelloWorldScheduler">
+    <configuration name="HelloWorldScheduler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nsm.quartztest.HelloWorldScheduler" />
+      <module name="javaSETestDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nsm.quartztest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nsm.collectiontest.MapTest" />
       <module name="javaSETestDemo" />
@@ -626,9 +569,11 @@
       <item itemvalue="Application.SeleniumDemo" />
       <item itemvalue="Application.StringTest" />
       <item itemvalue="Tomcat Server.Tomcat 8.0.302" />
+      <item itemvalue="Application.HelloWorldScheduler" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorldScheduler" />
         <item itemvalue="Application.PathUtil" />
         <item itemvalue="Application.SeleniumDemo" />
         <item itemvalue="Application.MapTest" />
@@ -694,7 +639,7 @@
       <workItem from="1567498702086" duration="39000" />
       <workItem from="1567498857706" duration="3014000" />
       <workItem from="1567564586009" duration="8488000" />
-      <workItem from="1567648325080" duration="10003000" />
+      <workItem from="1567648325080" duration="16210000" />
     </task>
     <task id="LOCAL-00001" summary=" merge eclipse">
       <created>1565600246635</created>
@@ -707,7 +652,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174774000" />
+    <option name="totallyTimeSpent" value="180981000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -719,10 +664,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33888048" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26399395" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -732,7 +677,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46885246" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24262296" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46644846" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -766,92 +711,6 @@
     <option name="LAST_COMMIT_MESSAGE" value=" merge eclipse" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javaSETestDemo/src/main/java/com/nsm/stringtest/StringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/org.nsm:javaSETestDemo:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>org.nsm:javaSETestDemo:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">org.nsm:javaSETestDemo:1.0-SNAPSHOT</node>
-            <node x="" y="">commons-net:commons-net:jar:1.4.1</node>
-            <node x="" y="">commons-net:commons-net:jar:1.4.1/oro:oro:jar:2.0.8</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.seleniumhq.selenium:selenium-api:jar:3.4.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.4.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.seleniumhq.selenium:selenium-edge-driver:jar:3.4.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.4.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.seleniumhq.selenium:selenium-ie-driver:jar:3.4.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.seleniumhq.selenium:selenium-opera-driver:jar:3.4.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.4.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.seleniumhq.selenium:selenium-safari-driver:jar:3.4.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.seleniumhq.selenium:selenium-support:jar:3.4.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/cglib:cglib-nodep:jar:3.2.4</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.apache.commons:commons-exec:jar:1.3</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.apache.commons:commons-lang3:jar:3.5</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/commons-codec:commons-codec:jar:1.10</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/commons-io:commons-io:jar:2.5</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/commons-logging:commons-logging:jar:1.2</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.w3c.css:sac:jar:1.3</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/net.sourceforge.cssparser:cssparser:jar:0.9.22</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/com.google.code.gson:gson:jar:2.8.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/com.google.guava:guava:jar:21.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.hamcrest:hamcrest-core:jar:1.3</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/net.sourceforge.htmlunit:htmlunit:jar:2.26</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/net.sourceforge.htmlunit:htmlunit-core-js:jar:2.26</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/net.sourceforge.htmlunit:neko-htmlunit:jar:2.25</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.apache.httpcomponents:httpclient:jar:4.5.3</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.apache.httpcomponents:httpclient:jar:4.5.3/commons-codec:commons-codec:jar:1.9</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.apache.httpcomponents:httpcore:jar:4.4.6</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.apache.httpcomponents:httpmime:jar:4.5.3</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/net.java.dev.jna:jna:jar:4.1.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/net.java.dev.jna:jna-platform:jar:4.1.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/junit:junit:jar:4.12</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/com.codeborne:phantomjsdriver:jar:1.4.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/com.codeborne:phantomjsdriver:jar:1.4.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.1.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.seleniumhq.selenium:htmlunit-driver:jar:2.26</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.seleniumhq.selenium:htmlunit-driver:jar:2.26/org.seleniumhq.selenium:selenium-api:jar:3.3.1</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.seleniumhq.selenium:htmlunit-driver:jar:2.26/org.seleniumhq.selenium:selenium-support:jar:3.3.1</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/javax.servlet:javax.servlet-api:jar:3.1.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.eclipse.jetty.websocket:websocket-api:jar:9.4.3.v20170317</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.eclipse.jetty.websocket:websocket-client:jar:9.4.3.v20170317</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.eclipse.jetty.websocket:websocket-client:jar:9.4.3.v20170317/org.eclipse.jetty:jetty-util:jar:9.4.3.v20170317</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.eclipse.jetty.websocket:websocket-client:jar:9.4.3.v20170317/org.eclipse.jetty:jetty-io:jar:9.4.3.v20170317</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.eclipse.jetty.websocket:websocket-client:jar:9.4.3.v20170317/org.eclipse.jetty:jetty-client:jar:9.4.3.v20170317</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.eclipse.jetty.websocket:websocket-client:jar:9.4.3.v20170317/org.eclipse.jetty:jetty-client:jar:9.4.3.v20170317/org.eclipse.jetty:jetty-http:jar:9.4.3.v20170317</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.eclipse.jetty.websocket:websocket-client:jar:9.4.3.v20170317/org.eclipse.jetty:jetty-client:jar:9.4.3.v20170317/org.eclipse.jetty:jetty-http:jar:9.4.3.v20170317/org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.eclipse.jetty.websocket:websocket-client:jar:9.4.3.v20170317/org.eclipse.jetty:jetty-client:jar:9.4.3.v20170317/org.eclipse.jetty:jetty-http:jar:9.4.3.v20170317/org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.eclipse.jetty.websocket:websocket-client:jar:9.4.3.v20170317/org.eclipse.jetty:jetty-client:jar:9.4.3.v20170317/org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.eclipse.jetty.websocket:websocket-common:jar:9.4.3.v20170317</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.eclipse.jetty.websocket:websocket-common:jar:9.4.3.v20170317/org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/org.eclipse.jetty.websocket:websocket-common:jar:9.4.3.v20170317/org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/xalan:serializer:jar:2.7.2</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/xalan:serializer:jar:2.7.2/xml-apis:xml-apis:jar:1.3.04</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/xalan:xalan:jar:2.7.2</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/xerces:xercesImpl:jar:2.11.0</node>
-            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.4.0/xml-apis:xml-apis:jar:1.4.01</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.11350435624394967" x="3977.0" y="1030.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1008,25 +867,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaSETestDemo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
-        </state>
-      </provider>
-      <provider editor-type-id="LargeFileEditor">
-        <state relative-caret-position="119">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/java/tyestttt.java" />
     <entry file="file://$PROJECT_DIR$/javaSETestDemo/src/main/java/com/nsm/jsouptest/JsoupTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1035,13 +875,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvcDemo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1070,20 +903,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/resources/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -1188,7 +1007,7 @@
     <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/webapp/WEB-INF/jsp/testpage/testPage1.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
-          <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -1202,7 +1021,7 @@
     <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/java/com/nsm/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="820">
-          <caret line="64" column="36" lean-forward="true" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+          <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#244#245#0" expanded="true" />
@@ -1215,8 +1034,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        <state relative-caret-position="119">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/resources/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvcDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2592">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="201" column="9" selection-start-line="201" selection-start-column="9" selection-end-line="205" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaSETestDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="46" column="51" lean-forward="true" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+        </state>
+      </provider>
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="119">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaSETestDemo/src/main/java/com/nsm/quartztest/HelloWordJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaSETestDemo/src/main/java/com/nsm/quartztest/HelloWorldScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

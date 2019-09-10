@@ -19,6 +19,8 @@ public class HelloWorldScheduler {
 
         JobDetail job2 = JobBuilder.newJob(CronJob.class).withIdentity("job2", "group2").build();
 
+        JobDetail job3 = JobBuilder.newJob(CronJob.class).withIdentity("job3", "group3").build();
+
         Calendar startTime = Calendar.getInstance();
         startTime.add(Calendar.SECOND, 5);
 
@@ -31,10 +33,15 @@ public class HelloWorldScheduler {
 
         CronTrigger trigger2 = TriggerBuilder.newTrigger()
                 .withIdentity("trigger2", "triggerGroup2").startAt(startTime.getTime()).endAt(endTime.getTime())
-                .withSchedule(CronScheduleBuilder.cronSchedule("0/10 * * * * ? ")).build();
+                .withSchedule(CronScheduleBuilder.cronSchedule("0/2 * * * * ? ")).build();
 
-        scheduler.scheduleJob(job, trigger);
-        scheduler.scheduleJob(job2, trigger2);
+        CronTrigger trigger3 = TriggerBuilder.newTrigger()
+                .withIdentity("trigger3", "triggerGroup3").startAt(startTime.getTime()).endAt(endTime.getTime())
+                .withSchedule(CronScheduleBuilder.cronSchedule("0/5 * * * * ? ")).build();
+
+        //scheduler.scheduleJob(job, trigger);
+        //scheduler.scheduleJob(job2, trigger2);
+        scheduler.scheduleJob(job3, trigger3);
         scheduler.start();
 
 

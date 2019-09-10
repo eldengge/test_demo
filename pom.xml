@@ -53,6 +53,11 @@
             <!-- 2.Spring -->
             <dependency>
                 <groupId>org.springframework</groupId>
+                <artifactId>spring-jms</artifactId>
+                <version>4.0.0.RELEASE</version>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework</groupId>
                 <artifactId>spring-core</artifactId>
                 <version>4.0.0.RELEASE</version>
             </dependency>
@@ -123,6 +128,7 @@
                 <artifactId>jstl</artifactId>
                 <version>1.2</version>
             </dependency>
+            <!--日志-->
             <dependency>
                 <groupId>log4j</groupId>
                 <artifactId>log4j</artifactId>
@@ -138,6 +144,7 @@
                 <artifactId>slf4j-log4j12</artifactId>
                 <version>1.7.7</version>
             </dependency>
+
             <dependency>
                 <groupId>cglib</groupId>
                 <artifactId>cglib</artifactId>
@@ -205,12 +212,12 @@
                 <version>2.3.0</version>
             </dependency>
 
-
             <dependency>
                 <groupId>commons-net</groupId>
                 <artifactId>commons-net</artifactId>
                 <version>1.4.1</version>
             </dependency>
+            <!--写爬虫用-->
             <dependency>
                 <groupId>org.seleniumhq.selenium</groupId>
                 <artifactId>selenium-java</artifactId>
@@ -221,12 +228,21 @@
                 <artifactId>jsoup</artifactId>
                 <version>1.7.3</version>
             </dependency>
+
+            <!--消息队列-->
+            <dependency>
+                <groupId>org.apache.activemq</groupId>
+                <artifactId>activemq-all</artifactId>
+                <version>5.9.0</version>
+            </dependency>
+
         </dependencies>
     </dependencyManagement>
 
     <modules>
         <module>javaSETestDemo</module>
         <module>springmvcDemo</module>
+        <module>springDemo</module>
     </modules>
 
 

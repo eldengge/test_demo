@@ -6,34 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7683d444-2f51-437a-b96d-3e00357f4b7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javaSETestDemo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/target/classes/com/nsm/activemqtest/MessageConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaSETestDemo/target/classes/com/nsm/activemqtest/MessageConsumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/target/classes/com/nsm/activemqtest/TopicMessageConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaSETestDemo/target/classes/com/nsm/activemqtest/TopicMessageConsumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/target/classes/com/nsm/lamada/LamadaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaSETestDemo/target/classes/com/nsm/lamada/LamadaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaSETestDemo/target/classes/com/nsm/threadtest/Testttt.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaSETestDemo/target/classes/com/nsm/threadtest/Testttt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/activeMQSpringDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/nsm/activemqtest/ConsumerListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/nsm/activemqtest/ConsumerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/nsm/activemqtest/ProduceService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/nsm/activemqtest/ProduceServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/nsm/activemqtest/ProducerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/src/main/resources/consumer.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/src/main/resources/producer.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/target/classes/com/nsm/activemqtest/ConsumerListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/target/classes/com/nsm/activemqtest/ConsumerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/target/classes/com/nsm/activemqtest/ProduceService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/target/classes/com/nsm/activemqtest/ProduceServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/target/classes/com/nsm/activemqtest/ProducerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/target/classes/consumer.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/target/classes/producer.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvcDemo/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvcDemo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7683d444-2f51-437a-b96d-3e00357f4b7d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/javaSETestDemo/target/" />
@@ -58,13 +31,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="51">
+              <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.0.0.RELEASE/spring-web-4.0.0.RELEASE.jar!/org/springframework/web/util/Log4jConfigListener.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.0.0.RELEASE/spring-web-4.0.0.RELEASE.jar!/org/springframework/web/util/Log4jWebConfigurer.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="43" column="58" lean-forward="true" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springmvcDemo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -79,13 +75,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/java/com/nsm/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+            <state relative-caret-position="119">
+              <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/java/com/nsm/service/CommonAbstract.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -219,8 +215,8 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="3" />
-    <option name="y" value="28" />
+    <option name="x" value="-5" />
+    <option name="y" value="112" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -240,72 +236,6 @@
             <path>
               <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nsm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nsm" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nsm" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testDemo-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testDemo-project" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nsm" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -694,7 +624,7 @@
       <workItem from="1568855866962" duration="11587000" />
       <workItem from="1568963512974" duration="3181000" />
       <workItem from="1569202009039" duration="14585000" />
-      <workItem from="1569226281891" duration="373000" />
+      <workItem from="1569226281891" duration="1686000" />
     </task>
     <task id="LOCAL-00001" summary=" merge eclipse">
       <created>1565600246635</created>
@@ -707,7 +637,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288050000" />
+    <option name="totallyTimeSpent" value="289363000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -719,8 +649,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3260212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -732,7 +661,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40655738" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40655738" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46644846" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -766,15 +695,6 @@
     <option name="LAST_COMMIT_MESSAGE" value=" merge eclipse" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springDemo/src/main/java/com/nsm/activemqtest/ConsumerListener.java" />
-    <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springDemo/src/main/java/com/nsm/activemqtest/ProducerTest.java" />
     <entry file="file://$PROJECT_DIR$/springDemo/src/main/java/com/nsm/activemqtest/ConsumerTest.java" />
     <entry file="file://$PROJECT_DIR$/springDemo/src/main/java/com/nsm/activemqtest/ProduceService.java" />
     <entry file="file://$PROJECT_DIR$/springDemo/src/main/java/com/nsm/activemqtest/ProduceServiceImpl.java" />
@@ -1087,10 +1007,10 @@
     <entry file="file://$PROJECT_DIR$/activeMQSpringDemo/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/java/com/nsm/service/CommonAbstract.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="68">
+          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1103,15 +1023,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/java/com/nsm/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        <state relative-caret-position="119">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/java/com/nsm/service/CommonAbstract.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.0.0.RELEASE/spring-web-4.0.0.RELEASE.jar!/org/springframework/web/util/Log4jConfigListener.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        <state relative-caret-position="187">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.0.0.RELEASE/spring-web-4.0.0.RELEASE.jar!/org/springframework/web/util/Log4jWebConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="43" column="58" lean-forward="true" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvcDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvcDemo/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
         </state>
       </provider>
     </entry>

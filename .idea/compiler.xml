@@ -8,8 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="activeMQSpringDemo" />
         <module name="javaSETestDemo" />
+        <module name="rabbitMQConsumer1spring" />
+        <module name="rabbitMQProducerSpring" />
         <module name="springmvcDemo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>

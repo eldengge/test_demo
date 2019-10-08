@@ -1,0 +1,5 @@
+com\nsm\activemqtest\ProducerTest.class
+com\nsm\activemqtest\ConsumerListener.class
+com\nsm\activemqtest\ConsumerTest.class
+com\nsm\activemqtest\ProduceServiceImpl.class
+com\nsm\activemqtest\ProduceService.class

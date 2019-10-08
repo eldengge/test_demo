@@ -15,10 +15,9 @@ public class FanoutConsumer1 {
     public static void main(String[] args) {
 
         Connection connection = null;
-        Channel channel = null;
         try {
             connection = ConnectionUtil.getConnection();
-            channel = connection.createChannel();
+            Channel channel = connection.createChannel();
 
             final Channel finalChannel = channel;
 
@@ -28,30 +27,32 @@ public class FanoutConsumer1 {
 
             channel.basicQos(1);
 
-            while (true){
-                channel.basicConsume(QUEUE_NAME, false, "",new DefaultConsumer(finalChannel){
-                    @Override
-                    public void handleDelivery(String consumerTag, Envelope envelope, AMQP.BasicProperties properties, byte[] body) throws IOException {
-                        System.out.println(consumerTag);
-                        String routingKey = envelope.getRoutingKey();
-                        System.out.println("消费的路由键 "+routingKey);
-                        String contentType = properties.getContentType();
-                        System.out.println("消息类型 "+contentType);
+            Consumer consumer = new DefaultConsumer(channel){
+                @Override
+                public void handleDelivery(String consumerTag, Envelope envelope, AMQP.BasicProperties properties, byte[] body) throws IOException {
+                    System.out.println(consumerTag);
+                    String routingKey = envelope.getRoutingKey();
+                    System.out.println("消费的路由键 "+routingKey);
+                    String contentType = properties.getContentType();
+                    System.out.println("消息类型 "+contentType);
 
-                        long deliveryTag = envelope.getDeliveryTag();
+                    long deliveryTag = envelope.getDeliveryTag();
 
-                        String message = new String(body);
-                        System.out.println("消费的消息 "+message);
+                    String message = new String(body);
+                    System.out.println("消费的消息 "+message);
 
-                        try {
-                            TimeUnit.SECONDS.sleep(2);
-                        } catch (InterruptedException e) {
-                            e.printStackTrace();
-                        }
-
-                        finalChannel.basicAck(deliveryTag, true);
+                    try {
+                        TimeUnit.SECONDS.sleep(2);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
                     }
-                });
+
+                    channel.basicAck(deliveryTag, true);
+                }
+            };
+
+            while (true){
+                channel.basicConsume(QUEUE_NAME, false, "",consumer);
             }
 
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rabbit="http://www.springframework.org/schema/rabbit"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/rabbit http://www.springframework.org/schema/rabbit/spring-rabbit.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <context:property-placeholder location="classpath:mq.properties"/>
+    <!--定义RabbitMQ的连接工厂-->
+    <rabbit:connection-factory id="connectionFactory" host="${mq.host}" port="${mq.port}" username="${mq.username}" password="${mq.password}" virtual-host="${mq.virtual-host}"/>
+
+    <!-- MQ的管理，包括队列、交换器等 -->
+    <rabbit:admin connection-factory="connectionFactory"/>
+
+    <!--定义交换器-->
+    <rabbit:direct-exchange name="directExchange" auto-declare="true"/>
+
+    <!-- 定义Rabbit模板，指定连接工厂以及定义exchange(exchange要和上面的一致) -->
+    <rabbit:template id="mqTemplate" connection-factory="connectionFactory" exchange="directExchange"/>
+
+
+</beans>

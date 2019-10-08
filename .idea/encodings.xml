@@ -4,6 +4,9 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/activeMQSpringDemo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/javaSETestDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitMQConsumer1-spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitMQProducer-Spring" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springmvcDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testMaven" charset="UTF-8" />
   </component>
 </project>

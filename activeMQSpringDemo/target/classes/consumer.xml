@@ -12,8 +12,8 @@
         <property name="targetConnectionFactory" ref="targetConnectionFactory"/>
     </bean>
     <!-- 消息目的地  点对点的模式-->
-    <!--<bean id="activeMQQueue" class = "org.apache.activemq.command.ActiveMQTopic">-->
-    <bean id="activeMQQueue" class = "org.apache.activemq.command.ActiveMQTopic">
+    <!--Topic模式 <bean id="activeMQQueue" class = "org.apache.activemq.command.ActiveMQTopic">-->
+    <bean id="activeMQQueue" class = "org.apache.activemq.command.ActiveMQQueue">
         <constructor-arg value="SpringActiveMqQueue"/>
     </bean>
     <!-- 配置消息监听器-->

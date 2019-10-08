@@ -242,13 +242,21 @@
                 <version>4.1.0</version>
             </dependency>
 
+            <dependency>
+                <groupId>org.springframework.amqp</groupId>
+                <artifactId>spring-rabbit</artifactId>
+                <version>1.4.0.RELEASE</version>
+            </dependency>
+
         </dependencies>
     </dependencyManagement>
 
     <modules>
         <module>javaSETestDemo</module>
-        <module>springmvcDemo</module>
         <module>activeMQSpringDemo</module>
+        <module>rabbitMQProducer-Spring</module>
+        <module>rabbitMQConsumer1-spring</module>
+        <module>springmvcDemo</module>
     </modules>
 
 

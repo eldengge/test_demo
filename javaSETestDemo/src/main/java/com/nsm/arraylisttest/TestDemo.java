@@ -1,11 +1,9 @@
 package com.nsm.arraylisttest;
 
 import java.lang.reflect.Field;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
+import java.util.stream.Collector;
+import java.util.stream.Collectors;
 
 import com.nsm.lamada.People;
 import com.nsm.lamada.Student;
@@ -16,42 +14,48 @@ import com.nsm.lamada.Student;
  * @version 1.0  
  */
 public class TestDemo {
-	
-	public static<T> void father2Child(T father,T child){
-		
+
+	public void quickSort(int[] array,int begin,int end){
+		if (begin < end){
+			int key = sort(array, begin, end);
+			quickSort(array, begin, key-1);
+			quickSort(array, key+1, end);
+		}
+	}
+
+	public int sort(int[] array,int begin,int end){
+		int i = begin;
+		int j = end;
+		int key = array[i];
+		while(i<j){
+			while (i<j && array[j]>key){
+				j--;
+			}
+			if (i<j){
+				array[i] = array[j];
+				i++;
+			}
+			while (i<j && array[i]<key){
+				i++;
+			}
+			if (i<j){
+				array[j] = array[i];
+				j--;
+			}
+		}
+		array[i] = key;
+		return i;
 	}
 	
 	public static void main(String[] args) throws Exception {
-		//List<Integer> list = new ArrayList<Integer>();
-//		Collections.addAll(list, new Integer[]{1,2,3,3,4,5});
-//		Iterator<Integer> iterator = list.iterator();
-//		while(iterator.hasNext()){
-//			if(iterator.next()==3){
-//				iterator.remove();
-//				break;
-//			}
-//		}
-//		list.forEach(System.out::println);
-//		Map<Integer,Object> map = new HashMap<Integer,Object>();
-//		map.put(1, 1);
-//		map.put(2, 2);
-//		System.out.println(map.get(3));
-		People p = new People();
-		p.setSex("");
-		Student stu = new Student();
-		Class<People> clazz = People.class;
-		Field[] fields = clazz.getDeclaredFields();
-		for (Field field : fields) {
-			field.setAccessible(true);
-			field.set(stu, field.get(p));
-		}
-//		Student stu = (Student)p2;
-		String[] split = stu.getSex().split(",");
 		List<String> list = new ArrayList<>();
-		Collections.addAll(list, split);
-		list.forEach((str)->{
-			System.out.println(str);
-		});
-		System.out.println(list == null);
+		list.add("1,2,3");
+		list.add("4,5,6");
+		List<String> stringList = list.stream().map((str) -> str.split(",")).flatMap((array) -> {
+			return Arrays.stream(array);
+		}).collect(Collectors.toList());
+
+		stringList.forEach(System.out::println);
+
 	}
 }

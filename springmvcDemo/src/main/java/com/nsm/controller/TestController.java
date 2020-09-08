@@ -6,6 +6,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.context.ContextLoader;
 import org.springframework.web.context.WebApplicationContext;
 import org.springframework.web.context.support.WebApplicationContextUtils;
@@ -13,6 +14,8 @@ import org.springframework.web.servlet.FrameworkServlet;
 
 import javax.servlet.ServletContext;
 import javax.servlet.http.HttpServletRequest;
+import java.util.HashMap;
+import java.util.Map;
 
 @Controller
 public class TestController extends CommonAbstract {
@@ -20,10 +23,12 @@ public class TestController extends CommonAbstract {
     @RequestMapping(value = "/log4jTest",method = RequestMethod.GET)
     public String testLog4j(){
 
-        logger.debug("this is debug message");
-        logger.info("this is info message");
-        logger.warn("this is warn message");
-        logger.error("this is error message");
+        for(int i =0;i<100;i++){
+            logger.debug("this is debug message");
+            logger.info("this is info message");
+            logger.warn("this is warn message");
+            logger.error("this is error message");
+        }
 
         return "testpage/testPage1";
     }
@@ -61,6 +66,8 @@ public class TestController extends CommonAbstract {
         System.out.println(testService2);
 
         System.out.println(testController);
+
+        Map<String,Object> map = new HashMap<>();
 
         return "testpage/testPage1";
     }
